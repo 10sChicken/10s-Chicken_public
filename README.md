@@ -46,6 +46,8 @@ In the meantime, escape the chicken by avoiding various risks that interfere wit
 
   The download file is not currently supported.
 
+- [Stage1 Web Build](https://husk321.itch.io/10s-chicken-v01) (2022.03.20)
+
   
 
 ## 사용 에셋 (Used Asset)
@@ -62,12 +64,6 @@ In the meantime, escape the chicken by avoiding various risks that interfere wit
 - [고양이, 까마귀](https://seethingswarm.itch.io/)
 
 
-
-## 업데이트 내역 (Update Log)
-
-* 0.0.1 : 인게임 플레이어 및 슬라이더, 메인메뉴 기능 추가
-
-  ​			Make player, slider, main menu.
 
 ## 정보 (Information)
 
