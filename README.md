@@ -6,10 +6,12 @@
 
 ## 참여자 (Participants)
 
-| [장한준](https://github.com/JangHanjun) | 차민재     | 양숙진 |
+| [장한준](https://github.com/JangHanjun) | [차민재](https://github.com/pengzer1)     | 양숙진 |
 | --------------------------------------- | ---------- | ------ |
 | 기획, 개발, **팀장**                    | 기획, 개발 | UI     |
 
+### Special Thanks
+- Seoultech Students
 
 
 ## 조작법(Manual)
@@ -23,6 +25,8 @@
   - 빨간색 블록 : 닭이 왼쪽으로 이동
   - 초록색 블록 : 이 시간동안 닭이 무적
   - 노란색 블록 : 블록의 시작점에 1번 점프!
+  - 보라색 블록 : 특정 타일들 활성화, 비활성화 변경
+  - 주황색 블록 : 해당 스테이지 중력 변경
 
 그동안 닭을 방해하는 각종 위험요소들을 피해서 닭을 탈출시키세요!
 
@@ -37,6 +41,8 @@ The chicken must reach the target flag within 10 seconds given! Decide on the be
   - Red block: The chicken moves to the left
   - Green block: Chicken is invincible during this time
   - Yellow block: Jump 1 to the starting point of the block!
+  - Purple block : Change some tile's active/deactive 
+  - Orange block : Reverse gravity
 
 In the meantime, escape the chicken by avoiding various risks that interfere with it!
 
@@ -46,8 +52,6 @@ In the meantime, escape the chicken by avoiding various risks that interfere wit
 
   The download file is not currently supported.
 
-- [Stage1 Web Build](https://husk321.itch.io/10s-chicken-v01) (2022.03.20)
-
   
 
 ## 사용 에셋 (Used Asset)
@@ -56,12 +60,25 @@ In the meantime, escape the chicken by avoiding various risks that interfere wit
 
 - [DOTween](http://dotween.demigiant.com/index.php)
 
+
 ### 스프라이트 (Sprite)
 
-- [닭](https://pekschi.itch.io/fat-chicken)
-- [인게임 내 타일 및 배경 오브젝트](https://free-game-assets.itch.io/)
-- [NPC 스프라이트](https://free-game-assets.itch.io/)
-- [고양이, 까마귀](https://seethingswarm.itch.io/)
+- Chicken : Pekschi (from itch.io)
+- Tilemap : craftpix.net & balckdragon1727 (from itch.io)
+
+- Rabbit, Crow : SeethingSwarm (from itch.io)
+- Spider : sanctumpixel (from itch.io)
+- Portal : Elthen (from itch.io)
+- Mushroom : Caz Creates Games (from itch.io)
+
+
+### 사운드 (Sound)
+- Casual & Acade game (from fanatical)
+- Effect : JDWWasabi (from itch.io)
+
+
+## 업데이트 내역 (Update Log)
+
 
 
 
