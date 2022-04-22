@@ -48,9 +48,8 @@ In the meantime, escape the chicken by avoiding various risks that interfere wit
 
 ## 게임 플레이 (Game Play)
 
-- 현재 다운로드 파일 미지원입니다.
+[Android](https://play.google.com/store/apps/details?id=com.Aster.TenSecondsChicken)
 
-  The download file is not currently supported.
 
   
 
@@ -79,8 +78,5 @@ In the meantime, escape the chicken by avoiding various risks that interfere wit
 
 ## 업데이트 내역 (Update Log)
 
-
-
-
-## 정보 (Information)
+- 2022.04.22 : 게임 출시
 
