@@ -79,4 +79,4 @@ In the meantime, escape the chicken by avoiding various risks that interfere wit
 ## 업데이트 내역 (Update Log)
 
 - 2022.04.22 : 게임 출시
-
+- 2022.05.02 : 버그 픽스 및 유저 반영 기능 추가
